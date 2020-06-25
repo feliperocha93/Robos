@@ -1,0 +1,10 @@
+C:\Users\jessica.silva\Source\repos\LocalicaPalavraChave\bin\Debug\LocalicaPalavraChave.exe.config
+C:\Users\jessica.silva\Source\repos\LocalicaPalavraChave\bin\Debug\LocalicaPalavraChave.exe
+C:\Users\jessica.silva\Source\repos\LocalicaPalavraChave\bin\Debug\LocalicaPalavraChave.pdb
+C:\Users\jessica.silva\Source\repos\LocalicaPalavraChave\obj\Debug\LocalizaArquivosPorFiltro.App.csprojAssemblyReference.cache
+C:\Users\jessica.silva\Source\repos\LocalicaPalavraChave\obj\Debug\LocalicaPalavraChave.FrmTela.resources
+C:\Users\jessica.silva\Source\repos\LocalicaPalavraChave\obj\Debug\LocalicaPalavraChave.Properties.Resources.resources
+C:\Users\jessica.silva\Source\repos\LocalicaPalavraChave\obj\Debug\LocalizaArquivosPorFiltro.App.csproj.GenerateResource.cache
+C:\Users\jessica.silva\Source\repos\LocalicaPalavraChave\obj\Debug\LocalizaArquivosPorFiltro.App.csproj.CoreCompileInputs.cache
+C:\Users\jessica.silva\Source\repos\LocalicaPalavraChave\obj\Debug\LocalicaPalavraChave.exe
+C:\Users\jessica.silva\Source\repos\LocalicaPalavraChave\obj\Debug\LocalicaPalavraChave.pdb
